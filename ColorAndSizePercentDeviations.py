@@ -24,6 +24,12 @@ from sqlalchemy import create_engine
 
 # Pandas
 # https://www.dataquest.io/blog/images/cheat-sheets/pandas-cheat-sheet.pdf
+# (Very Nice) http://pbpython.com/pandas_transform.html
+#       Data Frame
+# http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html
+
+# Books
+# http://amzn.to/2oy9jbR
 
 def get_plan_color_and_size_percents(reference_item_division_codes = None, department_codes = None,
                                      reference_item_codes = None,
